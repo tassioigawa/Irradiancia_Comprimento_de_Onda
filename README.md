@@ -29,7 +29,7 @@ Dessa forma, o ângulo horário solar foi obtido para ser implementado na equaç
 
 ⅆω=(π/12)ⅆt	(6)
 
-Por fim, os dados obtidos em campo foram utilizados como dados entrada para o cálculo da Irradiação do Topo da Atmosfera no momento inicial e final que as medidas foram tomadas em campo. A Irradiância por comprimento de onda foi medida com base nos dados obtidos no American Society for Testing and Materials (link de acesso: https://www.nrel.gov/grid/solar-resource/spectra-astm-e490.html)
+Por fim, os dados obtidos em campo foram utilizados como dados entrada para o cálculo da Irradiação do Topo da Atmosfera no momento inicial e final que as medidas foram tomadas em campo. A Irradiância por comprimento de onda foi medida com base nos dados obtidos no American Society for Testing and Materials (link de acesso: https://www.nrel.gov/grid/solar-resource/spectra-astm-e490.html). A Localização desse estudo de caso, foi em Ibatuba para o dia juliano 15 as 12horas.
 
 Referências Bibliográficas
 
