@@ -1,1 +1,1 @@
-# Irradiancia_Comprimento_de_Onda
+# Irradiância (Comprimento de Onda)
